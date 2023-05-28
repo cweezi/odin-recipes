@@ -1,2 +1,2 @@
 # odin-recipes
-First Odin Project project
+Recipie Website
