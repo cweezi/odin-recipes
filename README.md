@@ -1,2 +1,3 @@
 # odin-recipes
-Recipie Website
+A simple recipe website to practice HTML skills.
+
